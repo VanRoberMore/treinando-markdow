@@ -38,8 +38,8 @@
 ### ▼ POST /auth
 ##### Objetivo do endpoint ► fazer o login e gerar o token
 ##### Parâmetros ▼
-#####     email do usuário cadastrado
-#####     senha do respectivo email cadastrado para este usuário
+#####     "email": ► email do usuário cadastrado
+#####     "password": ► senha do respectivo email cadastrado para este usuário
 ####        Exemplo de requisição: ▼
               ```
               {
